@@ -1,2 +1,2 @@
 # data_science_files
-Data Science personal projects and examples.
+Data Science personal projects and code examples.
