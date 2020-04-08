@@ -1,2 +1,2 @@
 # data_science_files
-Projetos pessoais de ciência de dados e trechos com códigos de exemplo.
+Trechos de código e pequenos projetos de exemplo, com aplicações de Data Science, Machine Learning e Deep Learning.
